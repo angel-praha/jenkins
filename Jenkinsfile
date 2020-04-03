@@ -7,6 +7,7 @@ pipeline {
         echo "Multi works also"
         pwd
         uname -a
+        '''
       }
     }
   }
